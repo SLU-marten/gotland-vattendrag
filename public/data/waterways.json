@@ -1,0 +1,3528 @@
+[
+  {
+    "id": "SW295051",
+    "name": "Anerån",
+    "svarName": "Sjuströmmar",
+    "svarRiverName": null,
+    "totalLength": 29855.380885927083,
+    "lineLength": 17640.358517505632,
+    "segments": 36,
+    "species": [
+      "Abborre",
+      "Id",
+      "Sarv",
+      "Småspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 5,
+    "wetlandCount": 3,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW296842",
+    "name": "Arån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 740.7609063946638,
+    "lineLength": 299.03909668890446,
+    "segments": 1,
+    "species": [
+      "Abborre",
+      "Gädda",
+      "Mört",
+      "Regnbåge",
+      "Ål",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW296566",
+    "name": "Bångån",
+    "svarName": "Bångå",
+    "svarRiverName": null,
+    "totalLength": 17400.95610536956,
+    "lineLength": 9382.155381735607,
+    "segments": 6,
+    "species": [
+      "Abborre",
+      "Gädda",
+      "Id",
+      "Lake",
+      "Småspigg",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW293697",
+    "name": "Djupån",
+    "svarName": "Djupå",
+    "svarRiverName": null,
+    "totalLength": 131307.73910492842,
+    "lineLength": 66442.38900084246,
+    "segments": 117,
+    "species": [
+      "Ingen fångst"
+    ],
+    "lakeCount": 5,
+    "wetlandCount": 13,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295426",
+    "name": "Gartarveån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 22899.99858026193,
+    "lineLength": 14907.003133168328,
+    "segments": 19,
+    "species": [
+      "Abborre",
+      "Flodnejonöga",
+      "Gädda",
+      "Nejonöga obestämd",
+      "Småspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW292758",
+    "name": "Gothemsån",
+    "svarName": "Gothemån",
+    "svarRiverName": "Gothemå",
+    "totalLength": 216318.34688043667,
+    "lineLength": 125380.1896289574,
+    "segments": 131,
+    "species": [
+      "Abborre",
+      "Flodkräfta",
+      "Flodnejonöga",
+      "Gädda",
+      "Id",
+      "Mört",
+      "Småspigg",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 6,
+    "wetlandCount": 5,
+    "barrierCount": 6
+  },
+  {
+    "id": "SW296299",
+    "name": "Halsegårdaån",
+    "svarName": "Halsgårde å",
+    "svarRiverName": null,
+    "totalLength": 29750.29281146188,
+    "lineLength": 17314.68625684195,
+    "segments": 24,
+    "species": [
+      "Abborre",
+      "Flodnejonöga",
+      "Gädda",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 6,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296609",
+    "name": "Hauån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6588.585223855334,
+    "lineLength": 4685.480872006498,
+    "segments": 10,
+    "species": [
+      "Abborre",
+      "Flodkräfta",
+      "Ingen fångst",
+      "Småspigg"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 3,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW295982",
+    "name": "Histillesån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 283.1115586535552,
+    "lineLength": 118.28898037642271,
+    "segments": 1,
+    "species": [
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296993",
+    "name": "Histillesån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 43089.722871977545,
+    "lineLength": 27157.461566739516,
+    "segments": 43,
+    "species": [
+      "Abborre",
+      "Gädda",
+      "Lake",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296634",
+    "name": "Hugraifsån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 7237.910703681456,
+    "lineLength": 4782.458641216401,
+    "segments": 9,
+    "species": [
+      "Flodnejonöga",
+      "Nejonöga obestämd",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294522",
+    "name": "Hultungsån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 10280.620863006414,
+    "lineLength": 6920.835435799032,
+    "segments": 12,
+    "species": [
+      "Abborre",
+      "Elritsa",
+      "Id",
+      "Skrubbskädda",
+      "Småspigg",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295633",
+    "name": "Hyluån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6383.89189939287,
+    "lineLength": 5156.810317810411,
+    "segments": 8,
+    "species": [
+      "Sarv",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296334",
+    "name": "Hyluån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1092.6594878788783,
+    "lineLength": 708.7703841570589,
+    "segments": 4,
+    "species": [
+      "Sarv",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW293643",
+    "name": "Idån",
+    "svarName": "Idå",
+    "svarRiverName": null,
+    "totalLength": 171924.44910860367,
+    "lineLength": 83974.4177805359,
+    "segments": 101,
+    "species": [
+      "Abborre",
+      "Gädda",
+      "Id",
+      "Ingen fångst",
+      "Mört",
+      "Sarv",
+      "Småspigg",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 2,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW295573",
+    "name": "Ireån",
+    "svarName": "Ireå",
+    "svarRiverName": null,
+    "totalLength": 8369.581934235563,
+    "lineLength": 1722.1464206495962,
+    "segments": 3,
+    "species": [
+      "Flodkräfta",
+      "Flodnejonöga",
+      "Gädda",
+      "Regnbåge",
+      "Småspigg",
+      "Storspigg",
+      "Ål",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 3
+  },
+  {
+    "id": "SW295536",
+    "name": "Kioskbäcken, Klinthagenbäcken, Vikersån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 16084.420029358147,
+    "lineLength": 10409.932659632705,
+    "segments": 13,
+    "species": [
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW295219",
+    "name": "Kvarneån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4980.13183339431,
+    "lineLength": 4063.6042306903314,
+    "segments": 1,
+    "species": [
+      "Abborre",
+      "Småspigg",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296297",
+    "name": "Lavasån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 21085.487014208557,
+    "lineLength": 12762.417149630739,
+    "segments": 18,
+    "species": [
+      "Öring"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294757",
+    "name": "Lergravsbäcken",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 8168.156027814225,
+    "lineLength": 5009.777567715724,
+    "segments": 7,
+    "species": [
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297273",
+    "name": "Lummelundaån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 96.78840507200786,
+    "lineLength": 77.14677539082308,
+    "segments": 1,
+    "species": [
+      "Småspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 4
+  },
+  {
+    "id": "SW296571",
+    "name": "Nygårdsån",
+    "svarName": "Löså",
+    "svarRiverName": null,
+    "totalLength": 226232.55061155217,
+    "lineLength": 118259.23927865527,
+    "segments": 214,
+    "species": [
+      "Gädda",
+      "Lake",
+      "Småspigg",
+      "Öring"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 27,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW293805",
+    "name": "Närkån, Strömmaån",
+    "svarName": "Närkån",
+    "svarRiverName": null,
+    "totalLength": 223053.67186544006,
+    "lineLength": 126693.78236472003,
+    "segments": 170,
+    "species": [
+      "Abborre",
+      "Id",
+      "Mört",
+      "Ruda",
+      "Sarv",
+      "Småspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 4
+  },
+  {
+    "id": "SW297284",
+    "name": "Robbjänsån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6022.503392031638,
+    "lineLength": 4081.064812786708,
+    "segments": 5,
+    "species": [
+      "Småspigg",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW296300",
+    "name": "Själsöån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 7366.665694578345,
+    "lineLength": 2534.5979501883994,
+    "segments": 1,
+    "species": [
+      "Abborre",
+      "Elritsa",
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW293401",
+    "name": "Snoderån",
+    "svarName": "Snoderån",
+    "svarRiverName": "Snoder-a",
+    "totalLength": 8660.239493203728,
+    "lineLength": 2313.968809499212,
+    "segments": 5,
+    "species": [
+      "Abborre",
+      "Benlöja",
+      "Gädda",
+      "Id",
+      "Karpfisk obestämd",
+      "Mört",
+      "Skrubbskädda",
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW293411",
+    "name": "Snoderån",
+    "svarName": "Snoderån",
+    "svarRiverName": "Storkanalen",
+    "totalLength": 303647.30763242504,
+    "lineLength": 171209.17910035647,
+    "segments": 234,
+    "species": [
+      "Abborre",
+      "Benlöja",
+      "Gädda",
+      "Id",
+      "Karpfisk obestämd",
+      "Mört",
+      "Skrubbskädda",
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 9,
+    "wetlandCount": 2,
+    "barrierCount": 12
+  },
+  {
+    "id": "SW294481",
+    "name": "Storsundsån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 19667.579103294865,
+    "lineLength": 11907.366820909127,
+    "segments": 15,
+    "species": [
+      "Abborre",
+      "Elritsa",
+      "Gers",
+      "Gädda",
+      "Lake",
+      "Mört",
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 4,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW296688",
+    "name": "Storsundsån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1928.830152311469,
+    "lineLength": 1542.3871782470417,
+    "segments": 1,
+    "species": [
+      "Abborre",
+      "Elritsa",
+      "Gers",
+      "Gädda",
+      "Lake",
+      "Mört",
+      "Småspigg",
+      "Spigg obestämd",
+      "Storspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296014",
+    "name": "Svajdeån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 29663.88497541964,
+    "lineLength": 17244.432285611514,
+    "segments": 22,
+    "species": [
+      "Flodnejonöga",
+      "Gädda",
+      "Nejonöga obestämd",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW293863",
+    "name": "Varbosån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 198100.3533381563,
+    "lineLength": 108468.49244742372,
+    "segments": 190,
+    "species": [
+      "Abborre",
+      "Id",
+      "Storspigg",
+      "Öring"
+    ],
+    "lakeCount": 4,
+    "wetlandCount": 1,
+    "barrierCount": 6
+  },
+  {
+    "id": "SW296619",
+    "name": "Vasteån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 9480.29173584201,
+    "lineLength": 2226.475381129003,
+    "segments": 2,
+    "species": [
+      "Gädda",
+      "Småspigg",
+      "Sutare",
+      "Öring"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 1,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW295464",
+    "name": "Vike kanal, Vikeån",
+    "svarName": "Bandshagå",
+    "svarRiverName": null,
+    "totalLength": 130955.78569155227,
+    "lineLength": 76806.2318678799,
+    "segments": 89,
+    "species": [
+      "Gädda",
+      "Ingen fångst",
+      "Småspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 31,
+    "barrierCount": 2
+  },
+  {
+    "id": "SW296996",
+    "name": "Vägumeån",
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 29988.27732670731,
+    "lineLength": 19472.379289029916,
+    "segments": 13,
+    "species": [
+      "Småspigg",
+      "Öring"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW293686",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 72932.50423931862,
+    "lineLength": 43393.52635508933,
+    "segments": 50,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW293734",
+    "name": null,
+    "svarName": "Djupå",
+    "svarRiverName": null,
+    "totalLength": 2768.950162146896,
+    "lineLength": 918.3460572852629,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW293833",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2282.5146699872644,
+    "lineLength": 1844.4412437317526,
+    "segments": 8,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294017",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 483.4265958725245,
+    "lineLength": 386.2998094423533,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294130",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 148.00533248574575,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294476",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 663.1936491997941,
+    "lineLength": 429.5910800577126,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294480",
+    "name": null,
+    "svarName": "Ajkeså",
+    "svarRiverName": "Ajkeså",
+    "totalLength": 8483.716503255246,
+    "lineLength": 5829.936051679392,
+    "segments": 10,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294553",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1220.9399472653688,
+    "lineLength": 997.0354761934458,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294554",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 580.4103687053492,
+    "lineLength": 465.3938615876951,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294585",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 789.0893239419906,
+    "lineLength": 632.2235406621849,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294587",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 9132.842488812827,
+    "lineLength": 5904.308300308669,
+    "segments": 12,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294589",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 13584.113714612937,
+    "lineLength": 10166.65577581213,
+    "segments": 18,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 3,
+    "wetlandCount": 6,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW294596",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 217.32124680512757,
+    "lineLength": 171.94494744078452,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294604",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 699.5761626786107,
+    "lineLength": 556.7506656659746,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294609",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1564.7007407376068,
+    "lineLength": 1272.1968508059977,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294624",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6289.66368492301,
+    "lineLength": 4413.450088924869,
+    "segments": 11,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294654",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3819.0941900818075,
+    "lineLength": 3080.2402865556332,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294683",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1420.6369485922844,
+    "lineLength": 1133.3546154766716,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294689",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6824.877003418145,
+    "lineLength": 5583.193070351362,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294705",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 393.3923607471267,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294734",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3726.711086972852,
+    "lineLength": 2930.419505788324,
+    "segments": 8,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294735",
+    "name": null,
+    "svarName": "Spillingsån",
+    "svarRiverName": null,
+    "totalLength": 14023.202250375634,
+    "lineLength": 10288.303970346658,
+    "segments": 10,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294754",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1748.5696318415114,
+    "lineLength": 1263.1968712420844,
+    "segments": 5,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294758",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 141610.90543995253,
+    "lineLength": 76543.07974159345,
+    "segments": 115,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 4,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294759",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1245.715293641993,
+    "lineLength": 836.441642102326,
+    "segments": 5,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294781",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 394.04809077394594,
+    "lineLength": 314.3594227612268,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294793",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1069.9366936442984,
+    "lineLength": 859.4336434558722,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294804",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 109988.72546521989,
+    "lineLength": 64614.14344221324,
+    "segments": 83,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 6,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294809",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 326.1869818585027,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294819",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 495.6103791211005,
+    "lineLength": 406.4157967367271,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294824",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4658.279494455543,
+    "lineLength": 3349.578249010024,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294825",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3205.275371770333,
+    "lineLength": 2625.3614786395824,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294833",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 704.9329640856723,
+    "lineLength": 557.6267097773581,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294835",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1390.1084380027692,
+    "lineLength": 1119.159483420625,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294881",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1412.1281980975473,
+    "lineLength": 538.2699808240359,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294884",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1252.3105911637176,
+    "lineLength": 1016.4370670568617,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294895",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3640.808242488056,
+    "lineLength": 2520.2124740865142,
+    "segments": 7,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294903",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 712.5902602702043,
+    "lineLength": 578.230839534952,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294908",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 27654.943449023394,
+    "lineLength": 17456.56217367367,
+    "segments": 21,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 3,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294934",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 369.3384776624016,
+    "lineLength": 298.52997163723353,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294935",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 5956.268935375345,
+    "lineLength": 3987.276185751632,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294948",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 372.8941303986767,
+    "lineLength": 296.0342117553195,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294957",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1119.3246866482118,
+    "lineLength": 899.1321162760685,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294977",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1302.4122402947787,
+    "lineLength": 1052.6515149560748,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294980",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1990.2061332189867,
+    "lineLength": 1596.8044184405173,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW294988",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 75.10772030364778,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295000",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2930.3790848015187,
+    "lineLength": 2395.035002108255,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295006",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 748.5486429787514,
+    "lineLength": 600.0836803516826,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295010",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1058.8752100210556,
+    "lineLength": 864.4317865888062,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295020",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 164.52790118340994,
+    "lineLength": 130.37208621232838,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295033",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 8207.245716960282,
+    "lineLength": 5705.584485539238,
+    "segments": 15,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295035",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1093.0281531314447,
+    "lineLength": 863.2914339779499,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295046",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 289.9916834996873,
+    "lineLength": 229.6034544082002,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW295053",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 73002.01467145327,
+    "lineLength": 38517.316289206414,
+    "segments": 71,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 5,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295085",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 831.2071159870426,
+    "lineLength": 660.5816271400645,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295125",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 583.3469328264906,
+    "lineLength": 466.55943751967175,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295134",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1248.7316184392741,
+    "lineLength": 993.9967749836804,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295136",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1834.4283337993231,
+    "lineLength": 1477.284492497333,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295138",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1759.75517360395,
+    "lineLength": 1243.9452758358696,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295142",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2086.141635217836,
+    "lineLength": 1658.7479512323657,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295144",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 67.76204098731647,
+    "lineLength": 54.652394341835155,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295149",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1317.2524374018988,
+    "lineLength": 1070.8292987051968,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295161",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1830.1586118951332,
+    "lineLength": 1461.4855449252884,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295208",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6378.591594754883,
+    "lineLength": 4117.5722536392905,
+    "segments": 9,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295228",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 658.0761693115094,
+    "lineLength": 526.7444755699103,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295231",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1157.1927210641818,
+    "lineLength": 925.6060210860722,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295248",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1224.718832334247,
+    "lineLength": 994.1879667730717,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295270",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 25.374460639359206,
+    "lineLength": 20.64951570731996,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295280",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 422.094367547139,
+    "lineLength": 351.2691077174661,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295293",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 823.3774920571789,
+    "lineLength": 648.6841323374233,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295301",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 731.7849311544726,
+    "lineLength": 583.1441387891584,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295329",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 25663.109239090005,
+    "lineLength": 16860.345068098057,
+    "segments": 19,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295404",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1808.0479494087851,
+    "lineLength": 1307.9422746067119,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295408",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 963.495542649202,
+    "lineLength": 773.4225299433277,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295449",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4957.001704783566,
+    "lineLength": 4004.2144738365682,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295456",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 669.7503522922403,
+    "lineLength": 537.8292632529788,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295462",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1006.6701509783508,
+    "lineLength": 660.4376407946424,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295493",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 23.573295440846103,
+    "lineLength": 18.739553067368636,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295514",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 540.7739381135848,
+    "lineLength": 419.6521724325015,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295531",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6220.305619267072,
+    "lineLength": 3938.0998339712573,
+    "segments": 8,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295583",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 184.1059399284867,
+    "lineLength": 149.888874891528,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295585",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3056.3096896193415,
+    "lineLength": 2396.4787345972927,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295589",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 5169.3165217848855,
+    "lineLength": 4117.843243547947,
+    "segments": 8,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295597",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 467.9666980452919,
+    "lineLength": 241.19031501776252,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW295599",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1160.8920383490724,
+    "lineLength": 927.6219688354979,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295619",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 856.6486938585036,
+    "lineLength": 683.2509749227286,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295626",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2271.1868571829973,
+    "lineLength": 1553.1736598036116,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295644",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2323.6380085545693,
+    "lineLength": 1634.178968360625,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295652",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 726.699255007474,
+    "lineLength": 592.9642374208734,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295658",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4080.627670790797,
+    "lineLength": 3240.6857566239537,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295663",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2490.0819025170827,
+    "lineLength": 1927.1444169697227,
+    "segments": 9,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295682",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 78.46340723877076,
+    "lineLength": 64.74880563259576,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295693",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 523.2875562006543,
+    "lineLength": 411.8972536099548,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295706",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1261.1361017927109,
+    "lineLength": 1003.8308200518882,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295715",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1298.032036594584,
+    "lineLength": 1031.3945611558142,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295716",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1097.9280303091157,
+    "lineLength": 718.9391099976588,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295728",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 784.2821001765217,
+    "lineLength": 635.2203642467491,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295733",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 465.4667184344352,
+    "lineLength": 369.60954012742155,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295766",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2796.763315839218,
+    "lineLength": 2216.424945512239,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295783",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 46.82295800564151,
+    "lineLength": 37.97997758106395,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295794",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1745.5329218993272,
+    "lineLength": 1227.8854923008405,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295830",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 58.727078818071476,
+    "lineLength": 46.51068610096362,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295843",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3254.6036265094117,
+    "lineLength": 2646.018331292355,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295851",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 18359.159463643136,
+    "lineLength": 11644.967441494857,
+    "segments": 14,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295859",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1036.1956557316785,
+    "lineLength": 832.4449938509855,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295860",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 809.4667572416608,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295886",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 10783.556844810919,
+    "lineLength": 6724.522232888831,
+    "segments": 19,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295927",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1057.7361584900443,
+    "lineLength": 853.8104817962358,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295935",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 5925.304134976672,
+    "lineLength": 4011.052017470717,
+    "segments": 7,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295938",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 7552.1565024654155,
+    "lineLength": 5039.275658599686,
+    "segments": 18,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295973",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 17526.302440280695,
+    "lineLength": 10887.162608171348,
+    "segments": 26,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 4,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW295991",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 864.9403519719976,
+    "lineLength": 680.8456539467476,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296003",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 43.88020976390629,
+    "lineLength": 36.17494298911642,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296026",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 15575.18803256641,
+    "lineLength": 10275.959591398949,
+    "segments": 15,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296081",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 199.94201630802883,
+    "lineLength": 152.6683356562072,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296104",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 8000.588150123356,
+    "lineLength": 5095.683860608613,
+    "segments": 11,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296147",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 19.03663355338509,
+    "lineLength": 15.312540839483233,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296165",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2369.560485541282,
+    "lineLength": 1736.8905997242177,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296173",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3725.300650174409,
+    "lineLength": 2993.11978760548,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296210",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2325.822902170737,
+    "lineLength": 1874.3745449415358,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296224",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2066.6730969003615,
+    "lineLength": 1409.8279555679078,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296261",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1541.4086652079268,
+    "lineLength": 1221.4611272479235,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296284",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 12865.225330486373,
+    "lineLength": 8417.951718421027,
+    "segments": 14,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296287",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 758.60921775679,
+    "lineLength": 327.2193128914944,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 1
+  },
+  {
+    "id": "SW296298",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 3307.7882882824238,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296310",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 429.819056447152,
+    "lineLength": 345.63903578381246,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296317",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 16462.40925741631,
+    "lineLength": 10680.949471044094,
+    "segments": 19,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296329",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1625.333362352344,
+    "lineLength": 1303.1165282197207,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296332",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 16109.902684009776,
+    "lineLength": 10136.081635377439,
+    "segments": 21,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296344",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1874.1490624050336,
+    "lineLength": 1498.6918662520961,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296359",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 29574.855611082436,
+    "lineLength": 18756.662995158425,
+    "segments": 35,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296372",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 41031.33232802247,
+    "lineLength": 21949.422973979028,
+    "segments": 24,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296373",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 203.75363778237437,
+    "lineLength": 131.49046684566497,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296380",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 5246.801209261283,
+    "lineLength": 3562.561122150932,
+    "segments": 5,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296388",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 352.03153967451067,
+    "lineLength": 280.1082238988898,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296395",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3788.0469486854327,
+    "lineLength": 3036.247877726557,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296396",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1042.1588322568473,
+    "lineLength": 833.0530257746525,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296398",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1030.6671892058405,
+    "lineLength": 833.615991233675,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296435",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 11909.999971407175,
+    "lineLength": 7336.7244580302895,
+    "segments": 14,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 4,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296436",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 442.598939607839,
+    "lineLength": 370.78467360762124,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296445",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 567.6228615056714,
+    "lineLength": 462.5137430471642,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296455",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 42507.98881732207,
+    "lineLength": 28155.52497426983,
+    "segments": 52,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296469",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 9038.858480115668,
+    "lineLength": 6240.808639729657,
+    "segments": 20,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 4,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296485",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 9127.533624450261,
+    "lineLength": 6591.940766469617,
+    "segments": 9,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296535",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1254.5133808060557,
+    "lineLength": 1010.3159550428884,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296536",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 440.982000982953,
+    "lineLength": 353.4582642768179,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296538",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 6055.539727801981,
+    "lineLength": 3775.997715056748,
+    "segments": 7,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296539",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 653.0344936120288,
+    "lineLength": 527.9472146859001,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296549",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 12414.564783952148,
+    "lineLength": 9093.880287881233,
+    "segments": 8,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296553",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 20.71398116091572,
+    "lineLength": 16.897796839037902,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296572",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 642.8573195792798,
+    "lineLength": 520.1631780178097,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296580",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 18383.03753262173,
+    "lineLength": 12568.077973122125,
+    "segments": 12,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 6,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296583",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1788.9400717840385,
+    "lineLength": 1409.1674646703386,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296618",
+    "name": null,
+    "svarName": "Löså",
+    "svarRiverName": null,
+    "totalLength": 5308.61337604066,
+    "lineLength": 1845.2855169280906,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296675",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 14524.275448201928,
+    "lineLength": 9712.93324473242,
+    "segments": 19,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 5,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296679",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4859.083748843032,
+    "lineLength": 3833.0256105146937,
+    "segments": 12,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 4,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296683",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 5933.538529879025,
+    "lineLength": 4261.632564630396,
+    "segments": 10,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296687",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 449.0877533852264,
+    "lineLength": 358.04502428236555,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296697",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 440.57293192691145,
+    "lineLength": 350.542493823581,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296770",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 67.17147705223952,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296793",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1806.316793473502,
+    "lineLength": 1459.4565560139654,
+    "segments": 4,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296816",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 418.77208267012156,
+    "lineLength": 313.3141066468868,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296838",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 38991.99221632902,
+    "lineLength": 22583.520726447077,
+    "segments": 41,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296858",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 889.9405155897741,
+    "lineLength": 709.1037908468319,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296860",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1388.6005125933475,
+    "lineLength": 1123.7253291103611,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296865",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1425.7614875634483,
+    "lineLength": 1146.889841997225,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296867",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 669.5679875661514,
+    "lineLength": 542.0426751747548,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296875",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 0.0,
+    "lineLength": 335.7779825273679,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296881",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2404.7998472346744,
+    "lineLength": 1726.391876784591,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296890",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4202.019805355596,
+    "lineLength": 2747.295220274949,
+    "segments": 6,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296909",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 711.5668568474882,
+    "lineLength": 562.6925372419337,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296919",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1353.8536110198315,
+    "lineLength": 1103.5096825525554,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296932",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 620.5082019572037,
+    "lineLength": 489.5405971333063,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW296934",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 511.6561846767466,
+    "lineLength": 413.2526335203446,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297050",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1739.3194238269857,
+    "lineLength": 1410.5884909526521,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297051",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1493.5243989158785,
+    "lineLength": 1194.6231216830172,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297059",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 655.2343550166793,
+    "lineLength": 529.348612989079,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297061",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1141.6109981325149,
+    "lineLength": 912.7974131946667,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297099",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 527.1172037266045,
+    "lineLength": 424.70455961366633,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297103",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 9702.567460507655,
+    "lineLength": 6383.466903517551,
+    "segments": 15,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 2,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297153",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 4477.679622508991,
+    "lineLength": 3174.824668779915,
+    "segments": 12,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 2,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297190",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2879.948694219169,
+    "lineLength": 2069.197641647121,
+    "segments": 5,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297195",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1391.5496400214442,
+    "lineLength": 1100.4391067945967,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297199",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 663.0874337080284,
+    "lineLength": 542.0957915593124,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297203",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 3089.5709035066316,
+    "lineLength": 2389.4682484341115,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297206",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1354.8165286937297,
+    "lineLength": 1100.3832610265333,
+    "segments": 3,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 1,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297210",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 2126.578773499489,
+    "lineLength": 1697.459843208263,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297221",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 19136.04753623496,
+    "lineLength": 12359.36694797416,
+    "segments": 17,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 3,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297233",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 13.682618462500402,
+    "lineLength": 10.924546901263998,
+    "segments": 1,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297236",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 1647.7436640749338,
+    "lineLength": 1316.9905408395837,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 0,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  },
+  {
+    "id": "SW297259",
+    "name": null,
+    "svarName": null,
+    "svarRiverName": null,
+    "totalLength": 283.8123951766448,
+    "lineLength": 224.31918253882165,
+    "segments": 2,
+    "species": [
+      "ingen elfiskelokal"
+    ],
+    "lakeCount": 1,
+    "wetlandCount": 0,
+    "barrierCount": 0
+  }
+]
