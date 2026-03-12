@@ -19,7 +19,7 @@ let highlightedId = null;
 
 const STYLES = {
   riverNamed: { color: '#3d7bbf', weight: 2.5, opacity: 0.7 },
-  riverUnnamed: { color: '#8395a7', weight: 1.5, opacity: 0.4 },
+  riverUnnamed: { color: '#3d7bbf', weight: 2.5, opacity: 0.7 },
   riverHighlight: { color: '#1a5276', weight: 5, opacity: 1 },
   lake: { fillColor: '#3d7bbf', fillOpacity: 0.2, color: '#2e6aa8', weight: 1 },
   lakeHighlight: { fillColor: '#3d7bbf', fillOpacity: 0.5, color: '#2e6aa8', weight: 2 },
